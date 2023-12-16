@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int sum(int a, int b);
+int sum1(int a, int b);
 
 int main()
 {
@@ -10,7 +10,7 @@ int main()
 	return 0;
 }
 
-int sum(int a, int b)
+int sum1(int a, int b)
 {
 
 	return a + b;
