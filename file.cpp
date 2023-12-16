@@ -1,7 +1,9 @@
 #include <iostream>
 using namespace std;
 
+
 int sum2(int a, int b);
+
 
 int main()
 {
@@ -9,6 +11,7 @@ int main()
 
 	return 0;
 }
+
 
 int sum2(int a, int b)
 {
